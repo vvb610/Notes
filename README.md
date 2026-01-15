@@ -6,7 +6,7 @@ Course notes:
 - Applied Microeconometrics with Alfred Galichon
 - Industrial Organization with Chris Conlon
 - Panel Data Econometrics with Elena Manresa
-- Linear Model Econometrics with Konrad Menzel (incomplete)
+- Linear Model Econometrics (WIP) with Konrad Menzel
 
 Topic Notes:
 - Contamination Bias
