@@ -6,6 +6,7 @@ Course notes:
 - Applied Microeconometrics with Alfred Galichon
 - Industrial Organization with Chris Conlon
 - Panel Data Econometrics with Elena Manresa
+- Information Theory for Statistics and Learning with Yanjun Han
 - Linear Model Econometrics (WIP) with Konrad Menzel
 
 Topic Notes:
