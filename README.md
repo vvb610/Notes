@@ -7,6 +7,7 @@ Course notes:
 - Industrial Organization with Chris Conlon
 - Panel Data Econometrics with Elena Manresa
 - Information Theory for Statistics and Learning with Yanjun Han
+- Convex and Nonsmooth Optimization with Michael Overton
 - Linear Model Econometrics (WIP) with Konrad Menzel
 
 Topic Notes:
