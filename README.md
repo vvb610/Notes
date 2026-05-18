@@ -13,3 +13,4 @@ Course notes:
 Topic Notes:
 - Contamination Bias
 - Synthetic Controls
+- Always Valid Inference
